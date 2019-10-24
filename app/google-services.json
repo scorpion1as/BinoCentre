@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394210969315",
+    "firebase_url": "https://bino-f84e8.firebaseio.com",
+    "project_id": "bino-f84e8",
+    "storage_bucket": "bino-f84e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394210969315:android:8caec9b58efb4c70f027d6",
+        "android_client_info": {
+          "package_name": "com.olimpiade.binocentre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394210969315-5r3qisf63a98qjdsqljskt8r6vmo0dae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olimpiade.binocentre",
+            "certificate_hash": "304961b3e7e870bf2ba89aedd22121f7272ed46b"
+          }
+        },
+        {
+          "client_id": "394210969315-pj6qj2abg1fvsqbr44dsqml6satcgsr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8q98ygvQzUlFy_tNfLPUwu2QPMENc5bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394210969315-pj6qj2abg1fvsqbr44dsqml6satcgsr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
